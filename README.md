@@ -51,7 +51,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/aounali720/snort-project/blob/main/Snort-configuration.md"> Snort and Splunk Integration for Network Traffic Monitoring and Alerting </a>
 
-<a href="https://github.com/aounali720/Google-Cybersecurity-Professional-Certificate-Project/blob/main/incident-response-with-nist-framework.md">- Detection Lab
+- <a href="https://github.com/aounali720/Google-Cybersecurity-Professional-Certificate-Project/blob/main/incident-response-with-nist-framework.md">- Detection Lab
  </a>
