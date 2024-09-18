@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/aounali720/snort-project/blob/main/Snort-configuration.md">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/aounali720/snort-project/blob/main/Snort-configuration.md">SOC Lab</a>|
 | Threat modeling and Threat Detection          | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
