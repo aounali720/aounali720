@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/aounali720/snort-project/blob/main/Snort-configuration.md">SOC Lab</a>|
 | Threat modeling and Threat Detection          | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 <img src="https://img.shields.io/badge/-Snort-EE6F6C?&style=for-the-badge&logo=Snort&logoColor=white" />
