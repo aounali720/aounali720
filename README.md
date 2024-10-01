@@ -22,6 +22,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 <img src="https://img.shields.io/badge/-Snort-EE6F6C?&style=for-the-badge&logo=Snort&logoColor=white" />
+<img src="https://img.shields.io/badge/-Suricata-FF9933?&style=for-the-badge&logo=Suricata&logoColor=white" />
+
 
 ### Network
 <div>
