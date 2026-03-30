@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohammad Aoun 👋</h1>
-<h3 align="center">🔐 Cybersecurity Enthusiast | SOC Analyst Aspirant | CS Graduate</h3>
+<h3 align="center">🔐 Cybersecurity Enthusiast | SOC Analyst | CS Graduate</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-aoun-abbas">
@@ -26,7 +26,7 @@
 
 Computer Science graduate with hands-on experience in cybersecurity, cloud security, IT systems, and secure web development. Passionate about threat detection, log monitoring, and building secure solutions. Currently aiming to join a **Security Operations Center (SOC) as a Tier 1 Analyst**.
 
-📍 Punjab, Pakistan &nbsp;|&nbsp; 📧 aounali720@gmail.com &nbsp;|&nbsp; 📞 +92 345 0231908
+📍 Punjab, Pakistan &nbsp;|&nbsp; &nbsp;|&nbsp; 
 
 ---
 
