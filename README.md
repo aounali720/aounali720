@@ -13,7 +13,7 @@
 
 Computer Science graduate with hands-on experience in cybersecurity, cloud security, IT systems, and web application development. Passionate about threat detection, log monitoring, and building secure technical solutions. Currently aiming to join a **Security Operations Center (SOC) as a Tier 1 Analyst**.
 
-📍 Punjab, Pakistan &nbsp;|&nbsp; 📧 aounali720@gmail.com &nbsp;|&nbsp; 📞 +92 345 0231908
+ &nbsp;|&nbsp;  &nbsp;|&nbsp; 
 
 ---
 
