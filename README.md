@@ -39,7 +39,7 @@ These are tools I've used across projects and training, not a claim of expert-le
 
 ## Experience
 
-**Senior IT Manager, VerbixTech** — part-time, since October 2024. Handle day-to-day IT support, endpoint and network troubleshooting, and website/hosting maintenance.
+**IT Support, VerbixTech** — part-time, since October 2024. Handle day-to-day IT support, endpoint and network troubleshooting, and website/hosting maintenance.
 
 **Full Stack Developer Intern, IJ Technologies** — worked on Laravel APIs and web interfaces, including authentication, role-based access and database-backed features.
 
