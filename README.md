@@ -8,10 +8,10 @@ I'm looking for early-career opportunities in SOC analysis, security operations 
 
 ## Projects I'm working on
 
-### [StackBound Academy](https://github.com/aounali720/stackbound-academy)
+### [Ops Atlas](https://github.com/aounali720/ops-atlas)
 An interactive learning game for Git, GitHub, Docker, Kubernetes and cloud concepts. I built it with React, TypeScript and Vite. It has 40 lessons across eight worlds, command exercises, knowledge checks, flashcards and progress tracking. The command terminal is simulated; real practice is covered in separate lab guides.
 
-**[Try the game](https://aounali720.github.io/stackbound-academy/)** · [Read the code](https://github.com/aounali720/stackbound-academy)
+**[Try the game](https://aounali720.github.io/ops-atlas/)** · [Read the code](https://github.com/aounali720/ops-atlas)
 
 ### [SignalForge 720](https://github.com/aounali720/signalforge-720)
 A Python/Streamlit SOC practice tool. It brings public advisories into a review queue and lets me work through triage notes, declared-inventory CVE matching, detection questions and case exports. The offline examples are fictional. It does not scan endpoints or confirm vulnerabilities.
