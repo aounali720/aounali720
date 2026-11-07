@@ -4,7 +4,7 @@ Computer Science graduate working in IT operations and building hands-on cyberse
 
 I'm looking for early-career opportunities in SOC analysis, security operations and cybersecurity engineering. Based in Punjab, Pakistan.
 
-[Portfolio](https://aounali720.github.io/Pain.github.io/) · [LinkedIn](https://www.linkedin.com/in/mohammad-aoun-abbas/) · [TryHackMe](https://tryhackme.com/p/Aoun8080) · [Email](mailto:aounali720@gmail.com)
+[Portfolio](https://aounali720.github.io/Pain.github.io/) · [LinkedIn](https://www.linkedin.com/in/mohammadaounabbas/) · [TryHackMe](https://tryhackme.com/p/Aoun8080) · [Email](mailto:aounali720@gmail.com)
 
 ## Projects I'm working on
 
